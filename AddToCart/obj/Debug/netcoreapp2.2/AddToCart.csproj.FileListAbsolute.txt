@@ -1,0 +1,11 @@
+C:\Users\akumar\source\repos\AddToCart\AddToCart\bin\Debug\netcoreapp2.2\AddToCart.deps.json
+C:\Users\akumar\source\repos\AddToCart\AddToCart\bin\Debug\netcoreapp2.2\AddToCart.runtimeconfig.json
+C:\Users\akumar\source\repos\AddToCart\AddToCart\bin\Debug\netcoreapp2.2\AddToCart.runtimeconfig.dev.json
+C:\Users\akumar\source\repos\AddToCart\AddToCart\bin\Debug\netcoreapp2.2\AddToCart.dll
+C:\Users\akumar\source\repos\AddToCart\AddToCart\bin\Debug\netcoreapp2.2\AddToCart.pdb
+C:\Users\akumar\source\repos\AddToCart\AddToCart\obj\Debug\netcoreapp2.2\AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\akumar\source\repos\AddToCart\AddToCart\obj\Debug\netcoreapp2.2\AddToCart.csproj.CoreCompileInputs.cache
+C:\Users\akumar\source\repos\AddToCart\AddToCart\obj\Debug\netcoreapp2.2\AddToCart.AssemblyInfoInputs.cache
+C:\Users\akumar\source\repos\AddToCart\AddToCart\obj\Debug\netcoreapp2.2\AddToCart.AssemblyInfo.cs
+C:\Users\akumar\source\repos\AddToCart\AddToCart\obj\Debug\netcoreapp2.2\AddToCart.dll
+C:\Users\akumar\source\repos\AddToCart\AddToCart\obj\Debug\netcoreapp2.2\AddToCart.pdb
